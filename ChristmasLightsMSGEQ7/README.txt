@@ -1,0 +1,1 @@
+This program uses the MSGEQ7 7 band multiplexer to play christmas lights with music.  It takes the 10bit value of 7 frequency groups and gets the average.  Then, it checks each 10bit value and if the value is over the average it activates the relay to turn on that particular section of christmas lights.
